@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=andreslopezalbin)](https://github.com/andreslopezalbin/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreslopezalbin&layout=compact)](https://github.com/andreslopezalbin/)
+
+
+
 <!--
 **andreslopezalbin/andreslopezalbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
